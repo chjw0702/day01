@@ -14,5 +14,14 @@ public static void main(String[] args){
 	System.out.print("학원에서 추가");
 	System.out.print("집에서 추가");
 	System.out.print("집에서 추가");
+	/*
+	  \n: 엔터
+	  \t: tab 크기만큼 커서를 오른쪽으로 이동
+	  \": "(큰따옴표 표현,문자로)
+	  \\: \하나 표현 (경로찾을떄 씀)
+	 */
+	System.out.println("안\n녕\n하\n세요");
+	System.out.println("1\t123\t12345678\t11");
+	System.out.println("  \" \\ ");
 }
 }
